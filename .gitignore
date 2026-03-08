@@ -1,0 +1,49 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.*
+
+# Dependency folders
+node_modules/
+vendor/
+
+# Build / output directories
+dist/
+build/
+out/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Coverage reports
+coverage/
+.coverage
+
+# Package files
+*.tgz
+
+# Database files
+*.sqlite
+*.db
